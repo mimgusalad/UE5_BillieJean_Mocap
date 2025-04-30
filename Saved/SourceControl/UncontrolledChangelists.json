@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Projects/BillieJean_Mocap/Content/MoveAI/RetargetAnimations/B_00.uasset",
+				"D:/Unreal Projects/BillieJean_Mocap/Content/MoveAI/RetargetAnimations/B_00/UpperBody.uasset",
 				"E:/Tkcorp/Shortfilm/UE5_BillieJean_Mocap/Content/AnimLevel.umap",
 				"E:/Tkcorp/Shortfilm/UE5_BillieJean_Mocap/Content/MoveAI/RetargetAnimations/B_00.uasset",
 				"E:/Tkcorp/Shortfilm/UE5_BillieJean_Mocap/Content/MoveAI/RetargetAnimations/B_00/Driving_B_00.uasset"
